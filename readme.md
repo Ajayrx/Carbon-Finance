@@ -1,23 +1,4 @@
-<!DOCTYPE html>
 
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>KisanCarbon - Smart MRV for Farmers & Officials</title>
-<style>
-    body { font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; background-color: #f9f9f9; color: #333; }
-    h1, h2, h3 { color: #2c3e50; }
-    h1 { font-size: 2.2em; margin-bottom: 0.5em; }
-    h2 { font-size: 1.8em; margin-top: 1.5em; }
-    h3 { font-size: 1.4em; margin-top: 1em; }
-    ul { margin: 0.5em 0 1em 1.5em; }
-    li { margin: 0.4em 0; }
-    code { background-color: #ecf0f1; padding: 2px 6px; border-radius: 4px; font-family: monospace; }
-    .highlight { background-color: #eafaf1; padding: 2px 4px; border-radius: 3px; }
-    .section { background-color: #fff; padding: 15px 20px; border-radius: 10px; margin-bottom: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
-</style>
-</head>
-<body>
 
 <h1>KisanCarbon: Smart MRV for Farmers & Officials</h1>
 
