@@ -109,7 +109,7 @@ const StorytellingSection = () => {
               <iframe
                 ref={iframeRef}
                 className="w-full h-64 md:h-96"
-                src={`https://www.youtube.com/embed/DVZvm24orT0?si=U8NK1bmXKOEq6vKs&autoplay=1&mute=${isMuted ? '1' : '0'}&loop=1&playlist=DVZvm24orT0`}
+                src={`https://www.youtube.com/embed/Vx8S3dWrZF8?si=ejCRq7arLaN94EBc&autoplay=1&mute=${isMuted ? '1' : '0'}&loop=1&playlist=Vx8S3dWrZF8`}
                 title="Sita's Carbon Finance Journey"
                 frameBorder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
